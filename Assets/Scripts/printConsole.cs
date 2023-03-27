@@ -16,7 +16,7 @@ public class printConsole : MonoBehaviour
         Debug.Log("Desc: " + drug.description);
         Debug.Log("Toxicity: " + drug.toxicity);
         Debug.Log("Stenght: " + drug.strength);
-        Debug.Log("Mix Stenghtening : " + d rug.mixStrengthening);
+        Debug.Log("Mix Stenghtening : " + drug.mixStrengthening);
         Debug.Log("Addictiveness: " + drug.addictiveness);
         Debug.Log("Is Pure: " + drug.isPure);
     }

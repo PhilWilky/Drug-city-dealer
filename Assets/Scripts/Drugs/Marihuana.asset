@@ -20,4 +20,8 @@ MonoBehaviour:
   strength: 2
   mixStrengthening: 1
   addictiveness: 0.8
+  image: {fileID: 0}
   isPure: 1
+  nsfwTrueName: 
+  nickNames:
+  - Weed

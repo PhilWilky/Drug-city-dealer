@@ -20,4 +20,8 @@ MonoBehaviour:
   strength: 2.5
   mixStrengthening: 1.6
   addictiveness: 1.7
+  image: {fileID: 0}
   isPure: 1
+  nsfwTrueName: 
+  nickNames:
+  - AMP

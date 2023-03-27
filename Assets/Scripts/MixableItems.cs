@@ -13,5 +13,6 @@ public abstract class MixableItems : ScriptableObject
     public float strength;
     public float mixStrengthening;
     public float addictiveness;
+    public Sprite image;
 }
 
